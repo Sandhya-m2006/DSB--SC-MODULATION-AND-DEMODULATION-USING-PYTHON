@@ -65,7 +65,8 @@ plt.tight_layout()
 plt.show()
 ```
 __Tabulation__:
- ![WhatsApp Image 2025-11-26 at 20 18 04_b5a5254b](https://github.com/user-attachments/assets/3d5f47c0-f4a6-48f6-bf7f-fc92809ba18f)
+<img width="623" height="666" alt="Screenshot 2025-11-11 103805" src="https://github.com/user-attachments/assets/d91bbb1a-3f33-4ecb-8de5-47f7c7354e39" />
+
 
 __Output__:
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/7fc15427-294d-446a-974e-951b23cd8cb0" />
